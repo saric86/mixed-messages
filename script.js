@@ -1,7 +1,7 @@
 const words = {
-    needs: ["thinker", "planner", "leader", "motivator", "lover"],
-    feel: ["inspiring", "encouraging", "enraged", "amusing", "like the world is not enough"],
-    should: ["try something new", "run at least for 30 minutes", "talk to a stranger", "learn something new", "chill and drink beer"]
+    needs: ["thinker", "planner", "leader", "motivator", "lover", "warrior"],
+    feel: ["inspiring", "encouraging", "enraged", "amusing", "like the world is not enough", "the urge to conquer the world"],
+    should: ["try something new", "run at least for 30 minutes", "talk to a stranger", "learn something new", "chill and drink beer", "call your mother!"]
 }
 
 // empty quotes that will be filled later in a loop
